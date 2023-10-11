@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1693440000&v=beta&t=aQI0_5HeO0dmSuFtPScjgoZ3SVhye9DmozqOZkCr2Lc" alt="bootstrap" width="900" height="200"/>
+<img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ" alt="bootstrap" width="900" height="200"/>
 <h1 align="center">Hi 👋, I'm Foster Oppong</h1>
 <h3 align="left">An AI/ML enthusiast and aspiring Data scientist from Ghana.</h3>
 
