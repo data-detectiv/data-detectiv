@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm passionate about leveraging **data science** and **mac
 `Matplotlib` | `Seaborn` | `Power BI` | `Tableau` | `Excel`  
 
 **🔹 Databases & Tools:**  
-`MySQL` | `Jupyter Notebook` | `Git` | `Dask`  
+`MySQL` | `Jupyter Notebook` | `Git` 
 
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://linkedin.com/in/Foster)  
