@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm passionate about leveraging **data science** and **mac
 
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://linkedin.com/in/Foster)  
-📂 [Portfolio](#) (Coming soon!)  
+📂 [Portfolio](https://codebasics.io/portfolio/Foster-Oppong)  
 📧 Email: oppongfoster89@gmail.com  
 
 Let's collaborate and build something awesome! 🚀  
