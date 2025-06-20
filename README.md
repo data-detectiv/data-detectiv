@@ -42,7 +42,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-detectiv&layout=compact&theme=dark#gh-dark-mode-only)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-detectiv&layout=compact&theme=dark#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=data-detectiv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/data-detectiv/github-readme-stats#gh-dark-mode-only)
 
