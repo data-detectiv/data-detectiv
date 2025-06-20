@@ -47,9 +47,10 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=data-detectiv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/data-detectiv/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=data-detectiv&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/data-detectiv/github-readme-stats#gh-light-mode-only)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=data-detectiv&theme=dark#gh-dark-mode-only)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=data-detectiv&theme=dark#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=data-detectiv&theme=darkhub)
 
 Let's collaborate and build something awesome! 🚀  
