@@ -1,10 +1,10 @@
 # 👋 hey there! i'm foster oppong  
 
-🎓 Rising junior @Wingate | 📊 Math & Finance
-💻 Data + Code = Real-world impact
-🚀 Built tools for fundraising, reporting & decisions
-🌱 First-gen | AI4ALL & Goldman Sachs Emerging Leaders
-🔍 Into AI, data science & software engineering
+🎓 Math & Finance @Wingate  
+💻 Data + AI + Code  
+📈 Built tools that drive decisions & impact  
+🧠 AI4ALL • 💼 Goldman Sachs ELP • 🌱 First-gen
+
 
 ---
 
