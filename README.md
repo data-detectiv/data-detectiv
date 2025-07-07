@@ -1,13 +1,10 @@
 # 👋 hey there! i'm foster oppong  
 
-🎓 i’m a rising junior at wingate university, majoring in **mathematics & finance**.  
-💡 i enjoy using **data** and **code** to solve real-world problems and build simple tools that help people.  
-📊 i've worked on projects that improved **fundraising**, automated **reporting**, and simplified **decision-making**.  
-🚀 i have experience in **data analysis**, **machine learning**, and building **ai-powered web apps**.  
-🌱 as a **first-generation college student**, I value growth, learning, and leadership.  
-👨‍💼 programs like **ai4all**, and **goldman sachs emerging leaders** helped me sharpen my skills in both tech and leadership.  
-
-🧠 my interests lie in **software engineering** and **data science**, and I’m excited about using **data, ai, and code** to make a real impact.  
+🎓 Rising junior @Wingate | 📊 Math & Finance
+💻 Data + Code = Real-world impact
+🚀 Built tools for fundraising, reporting & decisions
+🌱 First-gen | AI4ALL & Goldman Sachs Emerging Leaders
+🔍 Into AI, data science & software engineering
 
 ---
 
