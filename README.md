@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/Foster" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://codebasics.io/portfolio/Foster-Oppong" target="_blank">
+  <a href="https://foster-oppong.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:oppongfoster89@gmail.com">
