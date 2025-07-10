@@ -1,9 +1,9 @@
 # 👋 hey there! i'm foster oppong  
 
-🎓 Math & Finance @Wingate  
-💻 Data + AI + Code  
-📈 Built tools that drive decisions & impact  
-🧠 AI4ALL • 💼 Goldman Sachs ELP • 🌱 First-gen
+🎓 math & finance @wingate  
+💻 data + ai + code  
+📈 built tools that drive decisions & impact  
+🧠 ai4all • 💼 goldman sachs elp • 🌱 first-gen
 
 
 ---
